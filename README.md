@@ -1,5 +1,7 @@
 # EventAssistant [![Github latest downloads](https://img.shields.io/github/downloads/BernardoGiordano/EventAssistant/total.svg)](https://github.com/BernardoGiordano/EventAssistant/releases/latest)
 
+Modified by [wildfirebill](https://github.com/wildfirebill)
+
 *Save file editor for HeartGold/SoulSilver, Platinum, Black/White, Black2/White2, X/Y, OmegaRuby/AlphaSapphire... and more.*
 
 ---
